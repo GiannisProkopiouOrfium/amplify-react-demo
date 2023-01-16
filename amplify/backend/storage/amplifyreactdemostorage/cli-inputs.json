@@ -1,0 +1,14 @@
+{
+  "resourceName": "amplifyreactdemostorage",
+  "policyUUID": "36ccd8c1",
+  "bucketName": "amplifyreactdemostoragebucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
